@@ -20,10 +20,11 @@ Vectorised function to wrap strings and preserve line breaks
 \examples{
 str_wrap_break(
 "The rate of female representation in the Brazilian Congress
-corresponded to 15.2\%.", 20)
+corresponded to 15.2\%.", 20
+)
 }
 \seealso{
-\url{https://github.com/nrennie/usefunc/blob/main/R/str_wrap_break.R}
+\url{https://github.com/nrennie/usefunc}
 }
 \author{
 Nicola Rennie

@@ -8,8 +8,8 @@
 #' @return A character string (or vector)
 #' @export
 #'
-#' @seealso \url{https://github.com/nrennie/usefunc/blob/main/R/str_wrap_break.R}
 #' @author Nicola Rennie
+#' @seealso \url{https://github.com/nrennie/usefunc}
 #'
 #' @examples
 #' str_wrap_break(
