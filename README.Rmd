@@ -16,7 +16,6 @@ knitr::opts_chunk$set(
 # lgb.utils
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/lgiselebock/lgb.utils/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/lgiselebock/lgb.utils/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 <!-- The goal of lgb.utils is to ... -->
