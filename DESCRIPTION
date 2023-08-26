@@ -1,8 +1,8 @@
 Package: lgb.utils
-Title: What the Package Does (One Line, Title Case)
+Title: R functions and data for personal use 
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Luisa Gisele", "Böck", , "luisagisele@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 License: CC0
