@@ -1,3 +1,3 @@
 # lgb.utils 1.0.1
 
-* Initial CRAN submission.
+* add `str_wrap_break` function

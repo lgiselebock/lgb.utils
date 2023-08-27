@@ -1,6 +1,6 @@
 Package: lgb.utils
 Title: R functions and data for personal use 
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     person("Luisa Gisele", "Böck", , "luisagisele@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
